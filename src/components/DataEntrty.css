@@ -1,0 +1,12 @@
+input{
+    height: 90px;
+    width: 100%;
+}
+
+button{
+    font-size: 20px;
+    width: 50%;
+    height: 10%;
+    border-color: aliceblue;
+    border-radius: 3px;
+}
